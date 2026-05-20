@@ -1,0 +1,10 @@
+.DS_Store
+*.scpt
+*.scptd/
+*.app/
+*.tmp
+*.bak
+*.swp
+*~
+/.build/
+/dist/
